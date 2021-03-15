@@ -5,4 +5,5 @@ Utilisations de Canvas, Arrays, Event Listeners
 
 -- Issues : none -- <br>
 • Taille de la fenêtre par défaut (il faut la redimensionner une première fois afin 
-d'avoir accès à l'animation complète).*fixed 15/03/21*
+d'avoir accès à l'animation complète).
+*fixed 15/03/21*
