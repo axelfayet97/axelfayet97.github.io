@@ -3,8 +3,9 @@ window.onload = function () {
     init();
     window.addEventListener('resize', init, false)
 }
-    let canvas = document.getElementById('canvas');
-    let c = canvas.getContext('2d');
+
+let canvas = document.getElementById('canvas');
+let c = canvas.getContext('2d');
 
 function init() {
     
